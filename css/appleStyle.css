@@ -1,0 +1,171 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+img{
+    max-width: 100%;
+}
+.more p , .iphone11pro .more p,.iphone11 .more p {
+    font-size:14px ;
+    color: rgb(0, 153, 255);
+    display:inline-flex;
+}
+.sub{
+    font-size: 20px;
+
+}
+.iphone11pro,.iphone11{
+    padding-top:60px;
+}
+.price{
+font-size: 14px;
+font-weight:lighter;
+}
+
+.title{
+    font-size: 40px ;
+    font-weight: bold;
+}
+
+.macbookpro,.iphone11pro,.iphone{
+    height: 624px;
+}
+.wrap1,.wrap2,.wrap3{
+    height: 557px;
+    margin-top: 18px;
+}
+.watch,.tv,.wrap3 .mac{
+    margin-right: 18px;
+}
+header{
+background-color: black;
+height: 39px;
+margin-bottom:24px ;
+}
+header ul ul img{
+    width:12px;
+}
+header ul ul a h4{
+color: #fff;
+}
+a:link {
+text-decoration: none;
+}
+.header{
+margin:0px 223px 212px;
+padding: 14px 0px;
+}
+.headericon{
+display: flex;
+justify-content: space-between;
+}
+.macbookpro,.iphonep,#iphone11, .wrap1,.wrap2,.wrap3{
+    text-align: center;
+}
+
+.maccont,.mac{
+    background-color: white;
+    height: 623px;
+}
+.maccont .title ,.maccont .more{
+    margin: 14px 0px;
+}
+.mac.macimg{
+    width: 450px;
+    align-self: center;
+}
+
+.iphonep .iphone11pro{
+background-image: url("../images/home/iphone11-pro-bg.jpg");
+background-size:100% 100%;
+background-repeat: no-repeat;
+height:550px;
+justify-content: space-between;
+}
+.iphone11pro div p{
+    color: white;
+}
+.thebest {
+    font-size:35px;
+    font-weight: none;
+
+}
+
+.iphone11{
+background-image: url("../images/home/iphone11-bg.jpg");
+background-size: 100% 100%;
+justify-content: space-around;
+height: 550px;
+}
+.wrap1 .wrap2 .wrap3{
+    width: 100%;
+}
+
+.wr1,.wr2,.wr3{
+    display: flex;
+    height: 550px;
+    align-content: center;
+}
+.watch,.card,.tv,.airpod,.mac,.ipad{
+    width: 50%;
+}
+.watch{
+background-image: url("../images/home/watch-series-5.jpg");
+background-size:100% 100%;
+}
+
+
+
+
+
+.tv{
+background-image:url("../images/home/apple-tv-background.jpg");
+background-size: 100% 100%;
+}
+.servant img{
+    position: relative;
+    
+}
+.trailer{
+    display:inline-flex;
+    position: relative;
+    bottom: 1px;
+}
+.airpod{
+    background-color: black;
+}
+.airpod img{
+    width: 240px;
+    height:160px;
+    position: relative;
+    top: 140px;
+    left:150px;
+} 
+.airfont {
+color: white;
+}
+
+.ipad{
+background-image: url("../images/home/new-ipad.jpg");
+background-size: 100% 100%;
+} 
+
+footer{
+    background-color: azure;
+}
+.terms{
+    margin-bottom: 24px;
+    padding-top: 20px;
+}
+.footer{
+margin:0px 226px;
+}
+.biggerwrap .t1 {
+display: flex;
+justify-content: space-between;
+}
+
+.biggerwrap ul{
+    margin-top:21px;
+    list-style-type: none;
+}
